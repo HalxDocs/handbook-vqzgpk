@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HalxDocs.github.io/handbook-vqzgpk/sitemap.xml
